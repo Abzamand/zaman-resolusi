@@ -2,3 +2,5 @@ zaman resulusi
 -contoh
 -contoh
 -contoh
+-test rubah
+-dan edit
